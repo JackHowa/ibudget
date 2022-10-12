@@ -59,3 +59,10 @@ Specify what it takes to deploy your app.
 
 - https://dev.to/asasmith/using-tailwind-css-v3-with-ember-js-37j9
 - Tailwind docs https://tailwindcss.com/docs/
+
+## Netlify setup
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e943e1e3-336c-481a-9354-126c34fa28ac/deploy-status)](https://app.netlify.com/sites/walletbudget/deploys)
+
+- Redirects update https://answers.netlify.com/t/support-guide-direct-links-to-my-single-page-app-spa-dont-work/126
+- Update to /public folder https://answers.netlify.com/t/redirects-not-working/126/2
